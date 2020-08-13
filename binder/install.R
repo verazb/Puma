@@ -29,6 +29,14 @@ install.packages('devtools')
 # DiD
 install.packages('fixest')
 
+# RDD
+install.packages('grid')
+install.packages('lpdensity')
+install.packages('rddensity')
+install.packages('rdlocrand')
+install.packages('rdrobust')
+install.packages('TeachingDemos')
+
 
 # CDA packages
 
