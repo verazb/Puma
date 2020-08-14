@@ -25,6 +25,9 @@ install.packages("stargazer")
 install.packages("mfx")
 install.packages("causalweight")
 install.packages('devtools')
+install.packages('jtools')
+install.packages('data.table')
+install.packages('AER')
 
 # DiD
 install.packages('fixest')
