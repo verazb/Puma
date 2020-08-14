@@ -1,5 +1,6 @@
-# AEA
-The lab sessions can be launched on Binder:
+# Applied Empirical Analysis
+
+Launch lab sessions on Binder. 
 
 Jupyter notebooks:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/verazb/Puma/master/)
