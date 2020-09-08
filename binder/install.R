@@ -1,5 +1,6 @@
 # One line per package 
 
+# Prep 
 install.packages("ggplot2")
 install.packages("tidyverse")
 install.packages("foreign")
@@ -23,11 +24,16 @@ install.packages("lubridate")
 install.packages("arsenal")
 install.packages("stargazer")
 install.packages("mfx")
-install.packages("causalweight")
 install.packages('devtools')
 install.packages('jtools')
 install.packages('data.table')
+
+# IV
 install.packages('AER')
+
+# CIA, mediation & IV
+install.packages("causalweight")
+install.packages("np")
 
 # DiD
 install.packages('fixest')
@@ -40,49 +46,6 @@ install.packages('rdlocrand')
 install.packages('rdrobust')
 install.packages('TeachingDemos')
 
-
-# CDA packages
-
-# install.packages('fBasics')
-# install.packages('corrplot')
-# install.packages('psych')
-# install.packages('glmnet')
-# install.packages('glmnetUtils')
-# install.packages('grf')
-# install.packages('rpart')
-# install.packages('rpart.plot')
-# install.packages('treeClust')
-# install.packages('randomForest')
-# install.packages('rlang')
-# install.packages('readr')
-# install.packages('devtools')
-# install.packages('tidyverse')
-# install.packages('reshape2')
-# install.packages('caret')
-# install.packages('neuralnet')
-# install.packages('plotmo')
-# install.packages("doParallel")
-# install.packages("RandomFieldsUtils")
-# install.packages("doSNOW")
-# install.packages("rms")
-# install.packages("Rtools")
-# devtools::install_github('MCKnaus/dmlmt')
-# install.packages('data.table')
-# install.packages('rvest')
-# install.packages('httr')
-# install.packages('jsonlite')
-# install.packages('xml2')
-# install.packages('tm')
-# install.packages('tidytext')
-# install.packages("topicmodels")
-# install.packages("wordcloud")
-# install.packages("SentimentAnalysis")
-# install.packages("naivebayes")
-# install.packages("slam")
-# install.packages("lexicon")
-# install.packages("gmodels")
-# install.packages("qdap")
-# install.packages("cld2")
-# install.packages("cld3")
-# install.packages("RColorBrewer")
-
+# Quantile
+install.packages("quantreg")
+install.packages("counterfactual")
