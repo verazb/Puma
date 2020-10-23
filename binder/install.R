@@ -27,6 +27,7 @@ install.packages("mfx")
 install.packages('devtools')
 install.packages('jtools')
 install.packages('data.table')
+install.packages('etable')
 
 # IV
 install.packages('AER')
