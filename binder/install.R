@@ -46,6 +46,7 @@ install.packages('rddensity')
 install.packages('rdlocrand')
 install.packages('rdrobust')
 install.packages('TeachingDemos')
+install.packages("rdd")
 
 # Quantile
 install.packages("quantreg")
