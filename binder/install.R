@@ -50,4 +50,4 @@ install.packages("rdd")
 
 # Quantile
 install.packages("quantreg")
-install.packages("counterfactual")
+install.packages("Counterfactual")
